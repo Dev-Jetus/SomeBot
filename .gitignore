@@ -1,0 +1,5 @@
+.eslintrc.json
+node_modules
+config.json
+.cache
+.npm
